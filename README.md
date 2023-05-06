@@ -10,7 +10,7 @@
 Sou de Goiânia e tenho 25 anos!
 - 📚 Curso Biblioteconomia na UFG.
 - 📷 Atualmente trabalho em um estúdio de fotografia.
-- 👩‍💻 Estudo frontend e pretendo focar na área!
+- 👩‍💻 Estudo front-end e pretendo focar na área!
 - 👾 Sou apaixonado em design de games (principalmente pixel arts).
 
 <b> Ferramentas e Tecnologias </b>
