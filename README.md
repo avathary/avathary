@@ -16,9 +16,7 @@ Sou de Goiânia e tenho 25 anos!
 <b> Ferramentas e Tecnologias </b>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40" height="40"/>
-<br><br>
-<img src="https://user-images.githubusercontent.com/81311238/236593616-5499ca5c-228a-41bc-98a2-b88a02ec62d0.png" width="200" height="200">
-<div>
-<a href="https://github.com/avathary">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avathary&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<br>
+<div><b>Badges</b><br><a hrfe"https://cursos.alura.com.br/user/avathary/fullCertificate/c247ea78b233099a3d0b9d67f45b4447"><img src="https://github.com/avathary/avathary/assets/81311238/bebd431f-a78a-4e52-ba4e-9490e05a6b32" width="200" height="200"></a><a hrfe="https://www.credly.com/badges/997b8eff-a1ce-444b-a58e-be2b7710508e/public_url"><img src="https://github.com/avathary/avathary/assets/81311238/95a0bf79-bf60-4c2e-b53d-3c550ab36a99" width="200" height="200"></a></div>
+<div><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avathary&layout=compact&langs_count=7&theme=dracula"/>         <img src="https://user-images.githubusercontent.com/81311238/236593616-5499ca5c-228a-41bc-98a2-b88a02ec62d0.png" width="200" height="200">
+<a href="https://github.com/avathary"></div>
