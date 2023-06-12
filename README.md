@@ -13,8 +13,6 @@ Sou de Goiânia e tenho 25 anos!
 - 👩‍💻 Tenho interesse na área de Data Sciente e Front-End!
 - 👾 Sou apaixonado em design de games (principalmente pixel arts).
 
- Ferramentas e Tecnologias
-
 <b> Ferramentas e Tecnologias </b>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40" height="40"/>
