@@ -7,11 +7,11 @@
 <a href = "mailto:kah.vct@discente.ufg.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-Sou de Goiânia e tenho 25 anos!
+Sou de Goiânia e tenho 26 anos!
 - 📚 Curso Biblioteconomia na UFG.
 - 📷 Atualmente trabalho em um estúdio de fotografia.
-- 👩‍💻 Tenho interesse na área de Data Sciente e Front-End!
-- 👾 Sou apaixonado em design de games (principalmente pixel arts).
+- 👩‍💻 Gosto de trabalhar com desafios no dia a dia!
+- 👾 No meu tempo livre gosto de ler bastante.
 
 <b> Ferramentas e Tecnologias </b>
 
